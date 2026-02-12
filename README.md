@@ -1,4 +1,4 @@
 # demo-1
-this my first 
+This is my first GIt
 <br>
 Author - Vansh Yadav
